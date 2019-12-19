@@ -1,2 +1,6 @@
 # MallorcaNeta
 Static website for a collaborative map 
+
+Add HTML iframe
+
+<iframe width="100%" height="576" src="https://maphub.net/embed/78473?directions=1&geolocation=1&legend=1&panel=1" frameborder="0" allow="geolocation"></iframe>
